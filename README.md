@@ -65,6 +65,11 @@ The application follows a structured four-stage process:
 3.  Run the installer on any Windows 10/11 machine.
 4.  Launch **MammoAI** from the desktop shortcut and start analyzing.
 
+### 📸 Interface Preview
+<p align="center">
+  <img src="assets/gui_preview.png" width="800" alt="MammoAI Interface Preview">
+</p>
+
 ## 🔮 Future Roadmap
 *   **Explainable AI (XAI):** Implementing **Grad-CAM** heatmaps to highlight tumor locations.
 *   **Multi-Modal Support:** Expanding training to include Ultrasound and MRI scans.
