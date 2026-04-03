@@ -8,9 +8,9 @@
 * **Fast & Portable:** Available as a standalone Windows installer.
 
 ## 👥 Meet the Team
-* [Yasmin's Name] - Lead Developer
-* [Rama's Name] - AI Specialist
-* [Nermeen's Name] - UI/UX & Documentation
+* [Yasmin's Name] 
+* [Rama's Name] 
+* [Nermeen's Name] 
 
 ## 🚀 Installation & Download
 You can download the latest version of the installer from the **[Releases](../../releases)** section.
