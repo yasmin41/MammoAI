@@ -1,6 +1,6 @@
 # 🎀 MammoAI: Early Breast Cancer Detection System 🎀
 
-![Amman Arab University](https://via.placeholder.com/200x80?text=Amman+Arab+University)
+![Amman Arab University](assets/university_logo.png)
 > **Department of Software Engineering | College of Information Technology**
 > **Amman Arab University (AAU) - 2024/2025**
 
