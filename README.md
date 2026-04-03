@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-2.10-orange?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/License-Academic-green?style=for-the-badge" />
+</p>
+
 <h1 align="center">🎀 MammoAI: Early Breast Cancer Detection System 🎀</h1>
 
 <p align="center">
