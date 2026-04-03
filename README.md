@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnasAref/AAU-Logo/main/AAU-Logo.png" width="220" alt="AAU Logo" />
+  <img src="assets/university_logo.png" width="220" alt="Amman Arab University Logo" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://i.ibb.co/Lzf3L7k/IT-College-Logo.png" width="180" alt="IT College Logo" />
+  <img src="assets/IT.png" width="200" alt="College of Information Technology Logo" />
 </p>
 
 <h1 align="center">🎀 MammoAI: Early Breast Cancer Detection System 🎀</h1>
@@ -12,6 +12,13 @@
 </p>
 
 ---
+
+## 👩‍💻 The Development Team
+*   **Yasmin MhdFadi Hababa** (ID: 202110369)
+*   **Nermeen Mohammad Almomani** (ID: 202110393)
+*   **Rama Haitham Abumenshar** (ID: 202120342)[cite: 1]
+
+**Supervised by:** Dr. Omar Al-Akash & Dr. Mejhem Altarawneh[cite: 1]
 
 ---
 
