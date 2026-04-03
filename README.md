@@ -1,8 +1,19 @@
 # 🎀 MammoAI: Early Breast Cancer Detection System 🎀
 
-![Amman Arab University](assets/university_logo.png)
-> **Department of Software Engineering | College of Information Technology**
-> **Amman Arab University (AAU) - 2024/2025**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnasAref/AAU-Logo/main/AAU-Logo.png" width="220" alt="AAU Logo" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://i.ibb.co/Lzf3L7k/IT-College-Logo.png" width="180" alt="IT College Logo" />
+</p>
+
+<h1 align="center">🎀 MammoAI: Early Breast Cancer Detection System 🎀</h1>
+
+<p align="center">
+  <strong>Department of Software Engineering | College of Information Technology</strong><br>
+  <strong>Amman Arab University (AAU) - 2024/2025</strong>
+</p>
+
+---
 
 ---
 
