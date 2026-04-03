@@ -1,0 +1,19 @@
+MammoAI Breast Cancer Detection - License Agreement
+---------------------------------------------------
+
+AUTHORS: Yasmin, Rama, Nermeen
+
+This software is provided as part of an academic project for research and educational purposes.
+
+By using MammoAI, you agree to the following terms:
+
+1. This software is provided "as is" without any warranty of any kind, either expressed or implied.
+
+2. The MammoAI team and its contributors are not responsible for any decisions, damages, or outcomes resulting from the use of this software.
+
+3. The software must not be used as a substitute for professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.
+
+4. You may not redistribute or modify this software without explicit permission from the authors.
+
+If you accept these terms, click "I Agree" to continue.
+If you do not accept these terms, click "I Disagree" to exit.
