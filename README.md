@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-2.10-orange?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/License-Academic-green?style=for-the-badge" />
-</p>
-
 <h1 align="center">🎀 MammoAI: Early Breast Cancer Detection System 🎀</h1>
 
 <p align="center">
@@ -29,12 +23,15 @@
 
 Our system bridges the gap between complex Deep Learning models and clinical usability by providing a seamless, standalone desktop interface for medical professionals.
 
-## 🚀 Key Technical Features
-*   **Deep Learning Core:** Built on a Transfer Learning architecture using **VGG16**, pre-trained on ImageNet.
-*   **High Precision:** Achieved an optimized classification accuracy of **98.18%**.
-*   **Robust Data Pipeline:** Integrated advanced Data Augmentation, Resizing (224x224), Normalization, and Class Weighting to eliminate dataset bias.
-*   **Real-time Inference:** Results generated in less than **0.34 seconds**.
-*   **Privacy-First:** Operates as an offline standalone application (No cloud data leakage).
+## 🛠️ Technical Stack
+The **MammoAI** system is built using industry-standard technologies to ensure stability and high performance:
+
+| Technology | Badge | Purpose |
+| :--- | :--- | :--- |
+| **Python** | ![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square&logo=python) | Core Programming Language |
+| **TensorFlow** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.10-orange?style=flat-square&logo=tensorflow) | Deep Learning Framework |
+| **CNN Architecture** | ![VGG16](https://img.shields.io/badge/Architecture-VGG16-red?style=flat-square) | Transfer Learning Model |
+| **GUI Framework** | ![CustomTkinter](https://img.shields.io/badge/UI-CustomTkinter-black?style=flat-square) | Modern Desktop Interface |
 
 ## 👩‍💻 The Development Team
 *   **Yasmin MhdFadi Hababa** (ID: 202110369)
