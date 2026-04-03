@@ -1,18 +1,3 @@
-<p align="center">
-  <img src="assets/university_logo.png" width="220" alt="Amman Arab University Logo" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/IT.png" width="200" alt="College of Information Technology Logo" />
-</p>
-
-<h1 align="center">🎀 MammoAI: Early Breast Cancer Detection System 🎀</h1>
-
-<p align="center">
-  <strong>Department of Software Engineering | College of Information Technology</strong><br>
-  <strong>Amman Arab University (AAU) - 2024/2025</strong>
-</p>
-
----
-
 ## 👩‍💻 The Development Team
 *   **Yasmin MhdFadi Hababa** (ID: 202110369)
 *   **Nermeen Mohammad Almomani** (ID: 202110393)
