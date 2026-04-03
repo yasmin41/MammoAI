@@ -8,9 +8,9 @@
 ---
 
 ## 👩‍💻 The Development Team
-*   **Yasmin MhdFadi Hababa** (ID: 202110369)
-*   **Nermeen Mohammad Almomani** (ID: 202110393)
-*   **Rama Haitham Abumenshar** (ID: 202120342)
+*   **Yasmin MhdFadi Hababa**
+*   **Nermeen Mohammad Almomani**
+*   **Rama Haitham Abumenshar** 
 
 **Under the Supervision of:**
 *   **Dr. Omar Al-Akash** (Supervisor)
