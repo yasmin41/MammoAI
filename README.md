@@ -1,5 +1,3 @@
-# 🎀 MammoAI: Early Breast Cancer Detection System 🎀
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/AnasAref/AAU-Logo/main/AAU-Logo.png" width="220" alt="AAU Logo" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
