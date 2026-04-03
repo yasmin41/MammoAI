@@ -1,3 +1,18 @@
+<h1 align="center">🎀 MammoAI: Early Breast Cancer Detection System 🎀</h1>
+
+<p align="center">
+  <strong>Department of Software Engineering | College of Information Technology</strong><br>
+  <strong>Amman Arab University (AAU) - 2024/2025</strong>
+</p>
+
+---
+
+## 👩‍💻 The Development Team
+*   **Yasmin MhdFadi Hababa** (ID: 202110369)
+*   **Nermeen Mohammad Almomani** (ID: 202110393)
+*   **Rama Haitham Abumenshar** (ID: 202120342)[cite: 1]
+
+**Supervised by:** Dr. Omar Al-Akash & Dr. Mejhem Altarawneh[cite: 1]
 ## 👩‍💻 The Development Team
 *   **Yasmin MhdFadi Hababa** (ID: 202110369)
 *   **Nermeen Mohammad Almomani** (ID: 202110393)
